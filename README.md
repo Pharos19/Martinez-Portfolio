@@ -4,6 +4,6 @@ This Portfolio has information such as projects I have worked on, About me infor
 
 In this portfolio you will also find images/screenshots pertaining to my prior projects.
 
-Attached is the link to deploy this application described above: https://pharos19.github.io/martinez-portfolio/
+Attached is the link to deploy this application described above: https://pharos19.github.io/Martinez-Portfolio/
 
 ![Portfolio screenshot](https://user-images.githubusercontent.com/110359728/189560528-e9615e5e-7b49-4495-955e-7b031841f704.png)# Martinez-Portfolio
